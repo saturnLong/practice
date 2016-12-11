@@ -1,0 +1,4 @@
+rootProject.name = 'practice'
+include 'mq'
+include 'gradle'
+
